@@ -1,0 +1,14 @@
+.brx-color-picker {
+    font: 400 14px/20px Open Sans,roboto,Helvetica Neue,sans-serif
+  }
+  .brx-color-picker input {
+    width: 100% !important;
+    padding: 4px 6px 3px !important;
+    text-align: center !important;
+  }
+
+  .brx-color-picker label {
+    width: 100% !important;
+    text-align: center !important;
+    padding: 0 !important;
+  }
